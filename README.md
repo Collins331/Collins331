@@ -7,7 +7,7 @@
 - 👨‍⚕️ I'm also pursuing a bachelors degree in Medical Laboratory Science at University of Nairobi
 </b></i></pre>
 - 📫 How to reach me:
-
+ 
 <ul>
   <li><a href="github.com/Collins331" target="_blank"><b> GitHub</b></a><br></li>
   <li><a href="twitter.com/Lincoln_331" target="_blank"><b> Twitter : </a>twitter.com/Lincoln_331</b><br></li>
