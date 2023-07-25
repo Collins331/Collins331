@@ -1,10 +1,9 @@
 <h1><i> Hi🖐, am Collins Oduor</i></h1><br>
 
 <pre><i><b>
-- 💻 I’m interested in being a software engineer
+- 💻 Aspiring software engineer
 - 🌱 I’m currently learning Software Engineering at ALX AFRICA
-- 💞️ I’m looking to collaborate on web development projects
-- 👨‍⚕️ I'm also pursuing a bachelors degree in Medical Laboratory Science at University of Nairobi
+- 💞️ I’m looking forward to collaborate in open source  projects
 </b></i></pre>
 * 📫 How to reach me:
  
