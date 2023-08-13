@@ -1,10 +1,12 @@
 <h1><i> Hi🖐, am Collins Oduor</i></h1><br>
 
-<pre><i><b>
+<pre>
+ <i><b>
 - 💻 Aspiring software engineer
 - 🌱 I’m currently learning Software Engineering at ALX AFRICA
 - 💞️ I’m looking forward to collaborate in open source  projects
-</b></i></pre>
+</b></i>
+</pre>
 * 📫 How to reach me:
  
   * [GITHUB](https://github.com/Collins331)   
