@@ -1,3 +1,4 @@
+![Collins Ochieng](Comp-banner.gif)
 <h1 align="center">Hi 👋, I'm Collins</h1>
 <h3 align="center">A passionate frontend software developer from Kenya.</h3>
 
@@ -19,6 +20,8 @@
 <a href="https://linkedin.com/in/collins-oduor-ochieng-9b2303251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="collins-oduor-ochieng-9b2303251/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22209588/collins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22209588/collins" height="30" width="40" /></a>
 <a href="https://www.facebook.com/collins.lincoln.331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/collins.lincoln.331" height="30" width="40" /></a>
+
+
 <a href="https://www.instagram.com/collins.linc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/collins.linc/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/collins331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="collins331" height="30" width="40" /></a>
 </p>
@@ -31,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=collins331&show_icons=true&locale=en&theme=merko" alt="collins331" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=collins331&" alt="collins331" /></p>
+
+![Image](0660efe82fa3da42ed56eef013171835.gif)
