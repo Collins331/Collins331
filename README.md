@@ -60,6 +60,7 @@
 
 <!--- ⚡ Fun fact **World is Ending soon, So better commit your code before you....**-->
 <hr>
+<!-- Programming languages and tools-->
 <h2 align="center"><b>Languages and Tools: </b></h2>
 <p align="center">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
@@ -92,6 +93,12 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-lightgreen?style=for-the-badge&logo=Python" alt="python"/>
   </a> 
+  <a href="https://github.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Github-%230f0f0f?style=for-the-badge&logo=github&logoColor=Black" alt="github" />
+  </a>
+    <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/VScode-%2331186b?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=1e90ff" alt="visual-studio-code" />
+    </a>
 </p>
 <hr>
 <p align="center">
