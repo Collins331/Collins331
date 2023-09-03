@@ -9,7 +9,7 @@
 </p>
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=collins331" alt="collins331" />
+        <img src="https://github-profile-trophy.vercel.app/?username=collins331" width="100%" alt="collins331" />
     </a>
 </p>
 <hr>
@@ -95,7 +95,7 @@
 </p>
 <hr>
 <p align="center">
-  <img align="center" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Collins331&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=008080" alt="collins331" />
+  <img align="center" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Collins331&show_icons=true&locale=en&layout=compact&theme=silver&hide_border=true&bg_color=87ceeb" alt="collins331" />
 </p>
 <hr>
 <p align="center">&nbsp;
