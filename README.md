@@ -7,9 +7,9 @@
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=collins331&label=Profile%20views&color=0e75b6&style=flat" alt="collins331" /> 
 </p>
-<p align="left">
+<p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=collins331" width="100%" alt="collins331" />
+        <img src="https://github-profile-trophy.vercel.app/?username=collins331" alt="collins331" align="center" />
     </a>
 </p>
 <hr>
@@ -95,20 +95,18 @@
 </p>
 <hr>
 <p align="center">
-  <img align="center" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Collins331&show_icons=true&locale=en&layout=compact&theme=silver&hide_border=true&bg_color=87ceeb" alt="collins331" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Collins331&show_icons=true&locale=en&layout=compact&theme=silver&hide_border=true&bg_color=87ceeb" alt="collins331" />
 </p>
 <hr>
 <p align="center">&nbsp;
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=collins331&count_private=true&show_icons=true&locale=en&theme=merko" alt="collins331" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=collins331&count_private=true&show_icons=true&locale=en&theme=merko" alt="collins331" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=collins331&&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" alt="collins331" />
 </p>
 <hr>
 <p align="center">
-  <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=collins331&&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="collins331" />
-</p>
-<hr>
-<p align="center">
-    <a href="https://github.com/vaibhzz101"><span>
-        <img align="center"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Collins331&theme=merko" width="100%" />
+    <a href="https://github.com/Collins331"><span>
+        <!--<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Collins331&theme=merko" width="100%" />-->
+        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Collins331&bg_color=000000&color=9e4c98&line=2fd22d&point=403d3d&area=true&hide_border=false" alt="Collins331/github-readme-activity-graph">
       </span></a>
 </p>
+<hr>
