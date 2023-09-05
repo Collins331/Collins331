@@ -105,7 +105,7 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Collins331&show_icons=true&locale=en&layout=compact&theme=silver&hide_border=true&bg_color=87ceeb" alt="collins331" />
 </p>
 <hr>
-<p align="center">&nbsp;
+<p align="center" display='flex' >&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=collins331&count_private=true&show_icons=true&locale=en&theme=merko" alt="collins331" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=collins331&&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" alt="collins331" />
 </p>
