@@ -9,7 +9,7 @@
 </p>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=collins331" alt="collins331" align="center" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Collins331&column=8&row=1&theme=dracula&no-frame=true" alt="collins331" align="center" />
     </a>
 </p>
 <hr>
@@ -17,31 +17,45 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
     <a href="https://codepen.io/collins331" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="collins331" height="30" width="40" />
+        <img align="center" src="https://img.shields.io/badge/Codepen-red?style=for-the-badge&logo=Codepen&logoColor=WHITE" alt="collins331"/>
     </a>
     <a href="https://dev.to/collins331" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="collins331" height="30" width="40" />
+        <img align="center" src="https://img.shields.io/badge/Dev%20Community-black?style=for-the-badge&logo=dev.to&logoColor=WHITE" alt="collins331"/>
     </a>
     <a href="https://twitter.com/Lincoln_331" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Lincoln_331" height="30" width="40" />
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Lincoln_331"/>
     </a>
     <a href="https://www.linkedin.com/in/collins-ochieng-9b2303251/" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="collins-oduor-ochieng-9b2303251/" height="30" width="40" />
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="collins-oduor-ochieng-9b2303251/" />
     </a>
     <a href="https://stackoverflow.com/users/22209588/collins" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22209588/collins" height="30" width="40" />
+        <img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="https://stackoverflow.com/users/22209588/collins"/>
     </a>
     <a href="https://www.facebook.com/collins.lincoln.331" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/collins.lincoln.331" height="30" width="40" />
+        <img align="center" src="https://img.shields.io/badge/Facebook-blue?style=for%20the%20badge&logo=facebook&logoColor=white" alt="facebook.com/collins.lincoln.331" height="30"/>
     </a> 
     <a href="https://www.instagram.com/collins.linc/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/collins.linc/" height="30" width="40" />
+        <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/collins.linc/"/>
     </a>
     <a href="https://www.leetcode.com/collins331" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="collins331" height="30" width="40" />
+      <img align="center" src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=Leetcode&logoColor=WHITE" alt="collins331"/>
+    </a>
+    <a href="https://github.com/Collins331" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/>
+    </a>
+    <a href="mailto:ochiengcollinsoduor2@gmail.com" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30"/>
+    </a>
+    <a href="https://discord.com" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" height="30"/>
     </a>
   </p>
   <br>
+  <hr>
+  <div align="center">
+  ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](./contributiongrid.svg)
+  </div>
+  </br>
   <hr>
   
 - 🔭 I’m a **Junior Front-end Web Developer**
@@ -101,14 +115,15 @@
     </a>
 </p>
 <hr>
-<p align="center">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Collins331&show_icons=true&locale=en&layout=compact&theme=silver&hide_border=true&bg_color=87ceeb" alt="collins331" />
-</p>
-<hr>
+<div align="center">
+  <img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Collins331&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 <p align="center" display='flex' >&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=collins331&count_private=true&show_icons=true&locale=en&theme=merko" alt="collins331" />
+    <hr>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=collins331&&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" alt="collins331" />
 </p>
+    <br>
+</div>
 <hr>
 <p align="center">
     <a href="https://github.com/Collins331"><span>
