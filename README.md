@@ -113,9 +113,9 @@
 <div align="center">
   <img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Collins331&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 <p  display='flex' >&nbsp;
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=collins331&count_private=true&show_icons=true&locale=en&theme=merko" alt="collins331" />
+  <img  height="160" src="https://github-readme-stats.vercel.app/api?username=collins331&count_private=true&show_icons=true&locale=en&theme=merko" alt="collins331" />
     <hr>
-  <img align="center" height="200px"  src="https://github-readme-streak-stats.herokuapp.com/?user=collins331&&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" alt="collins331" />
+  <img  height="160"  src="https://github-readme-streak-stats.herokuapp.com/?user=collins331&&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" alt="collins331" />
 </p>
     <br>
 </div>
