@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hello 👋, I'm Collins</h1>
-<h3 align="center">A passionate frontend software developer from Kenya.</h3>
+<h2 align="center">A passionate Fullstack software developer from Kenya.</h2>
 <hr>
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=collins331&label=Profile%20views&color=0e75b6&style=flat" alt="collins331" /> 
@@ -14,7 +14,7 @@
 </p>
 <hr>
 <!--<p align="left"> <a href="https://twitter.com/lincoln_331" target="blank"><img src="https://img.shields.io/twitter/follow/lincoln_331?logo=twitter&style=for-the-badge" alt="lincoln_331" /></a> </p>-->
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on:</h3>
 <p align="center">
     <a href="https://codepen.io/collins331" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Codepen-red?style=for-the-badge&logo=Codepen&logoColor=WHITE" alt="collins331"/>
@@ -53,11 +53,11 @@
   <br>
   <hr>
   
-- 🔭 I’m a **Junior Front-end Web Developer**
+- 🔭 I’m a **Junior Fullstack Developer**
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **Django Framework**
 
-- 💬 Ask me about **C programming, JavaScript, HTML, CSS**
+- 💬 Ask me about **C programming, JavaScript, HTML, CSS, Python**
 
 <!--- 📫 How to reach me-->
 
@@ -65,7 +65,7 @@
 
 <!--- 📃 Look at my [Resume](https://drive.google.com/file/d/16tQUUbquZpysvg0H4ZR6gTEdReZQuqjO/view?usp=share_link) -->
 
-- 👨‍💻 All my projects are available at my [GITHUB](https://github.com/Collins331)
+- 👨‍💻 All my projects are available at my *[GITHUB](https://github.com/Collins331?tab=repositories)*
 
 <!--- ⚡ Fun fact **World is Ending soon, So better commit your code before you....**-->
 <hr>
