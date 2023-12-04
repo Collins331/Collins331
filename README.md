@@ -1,14 +1,17 @@
+[![committers.top badge](https://user-badge.committers.top/kenya/Collins331.svg)](https://user-badge.committers.top/kenya/Collins331)
 <div align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hello 👋, I'm Collins</h1>
 <h2 align="center">A passionate Fullstack software developer from Kenya.</h2>
 <hr>
+
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=collins331&label=Profile%20views&color=0e75b6&style=flat" alt="collins331" /> 
 </p>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
+        
         <img src="https://github-profile-trophy.vercel.app/?username=Collins331&column=8&row=1&theme=dracula&no-frame=true" alt="collins331" align="center" />
     </a>
 </p>
