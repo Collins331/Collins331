@@ -11,7 +11,6 @@
 </p>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        
         <img src="https://github-profile-trophy.vercel.app/?username=Collins331&column=8&row=1&theme=dracula&no-frame=true" alt="collins331" align="center" />
     </a>
 </p>
