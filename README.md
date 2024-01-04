@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hello 👋, I'm Collins</h1>
-<h2 align="center">A passionate Fullstack software developer from Kenya.</h2>
+<h2 align="center">I am passionate Fullstack software developer from Kenya.</h2>
 <hr>
 
 <p align="left">
