@@ -63,7 +63,7 @@
 
 <!--- 📫 How to reach me-->
 
-🌏 Visit to my <a href="https:">Portfolio</a>
+🌏 Visit to my <a href="https://collins331.github.io/personal-portfolio/index.html">Portfolio</a>
 
 <!--- 📃 Look at my [Resume](https://drive.google.com/file/d/16tQUUbquZpysvg0H4ZR6gTEdReZQuqjO/view?usp=share_link) -->
 
