@@ -1,4 +1,4 @@
-[![committers.top badge](https://user-badge.committers.top/kenya/Collins331.svg)](https://user-badge.committers.top/kenya/Collins331)
+## [![committers.top badge](https://user-badge.committers.top/kenya/Collins331.svg)](https://user-badge.committers.top/kenya/Collins331)
 <div align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
