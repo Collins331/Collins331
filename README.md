@@ -1,8 +1,11 @@
 ## [![committers.top badge](https://user-badge.committers.top/kenya/Collins331.svg)](https://user-badge.committers.top/kenya/Collins331)
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=&weight=700&size=25&pause=1000&color=3EF702&background=FFF9FC00&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Hello+there%F0%9F%96%90%2C+I'm+Collins;A+Software+Sorcerer+and+Debugging+Dynamo." alt="Typing SVG"/> 
+</div>
 <div align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Hello 👋, I'm Collins</h1>
 <h2 align="center">I am passionate Fullstack software developer from Kenya.</h2>
 <hr>
 
