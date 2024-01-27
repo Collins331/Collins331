@@ -19,6 +19,13 @@
 </p>
 <hr>
 <!--<p align="left"> <a href="https://twitter.com/lincoln_331" target="blank"><img src="https://img.shields.io/twitter/follow/lincoln_331?logo=twitter&style=for-the-badge" alt="lincoln_331" /></a> </p>-->
+
+<h2 align='center'>✍️Random Dev Quote</h2>
+
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia")
+</p>
+<hr>
 <h3 align="left">Connect with me on:</h3>
 <p align="center">
     <a href="https://codepen.io/collins331" target="_blank">
@@ -133,3 +140,7 @@
       </span></a>
 </p>
 <hr>
+<h3 align='center'>😂 Random Dev Meme</h3>
+<p align='center'>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</p>
