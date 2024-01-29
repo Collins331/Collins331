@@ -1,5 +1,5 @@
-## [![committers.top badge](https://user-badge.committers.top/kenya/Collins331.svg)](https://user-badge.committers.top/kenya/Collins331)
-
+[![committers.top badge](https://user-badge.committers.top/kenya/Collins331.svg)](https://user-badge.committers.top/kenya/Collins331)
+[![wakatime](https://wakatime.com/badge/user/018c68c0-0aa0-41fe-8e90-93c626782829.svg)](https://wakatime.com/@018c68c0-0aa0-41fe-8e90-93c626782829)
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=&weight=700&size=25&pause=1000&color=3EF702&background=FFF9FC00&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Hello+there%F0%9F%96%90%2C+I'm+Collins;A+Software+Sorcerer+and+Debugging+Dynamo." alt="Typing SVG"/> 
 </div>
