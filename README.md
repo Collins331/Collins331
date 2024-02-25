@@ -176,13 +176,45 @@
 
 - 💬 Ask me about **C programming, JavaScript, HTML, CSS, Python**
 
-<!--- 📫 How to reach me-->
-
-🌏 Visit to my <a href="https://portfolio.lincsoftwares.tech">Portfolio</a>
+- 🌏 Visit to my <a href="https://portfolio.lincsoftwares.tech">Portfolio</a>
 
 - 👨‍💻 All my projects are available at my *[GITHUB](https://github.com/Collins331?tab=repositories)*
 
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
+
+## My personal values and work ethic
+
+✨ I want to build strong relationships with my clients.
+
+✨ I believe that a good working relationship is built on mutual trust and respect.
+
+✨ I value open communication and strive to keep you updated on progress every step of the way.
+
+✨ I am a team player and enjoy collaborating with others to achieve a common goal.
+
+✨ Outside of work, I am an avid sports fan, especially when it comes to football.
+
+✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
+
+<!--✨ Preferred PHP frameworks ✔Laravel, ✔Codeigniter, ✔Sympony, ✔Yii-->
+       
+✨ Preferred Python frameworks   ✔Python, ✔Django, ✔Flask
+          
+✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, ✔React.js, ✔Vue.js
+         
+✨ Preferred style frameworks    ✔Tailwind CSS, ✔Bootstrap, ✔Material-UI
+         
+✨ Database options   ✔MongoDB, ✔MySQL,  ✔ sqlite3
+         
+✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔WIx, ✔Squarespace, ✔bubble.io
+         
+✨ Web hosting options    ✔ Azure service   ✔ AWS Services - EC2, S3, and Lambda    ✔ cPanel service, ✔GoDaddy ✔Vercel ✔ Heroku ✔Netlify
+         
+✨ Payment gateway integration  ✔Stripe, ✔PayPal ✔Mpesa
+        
+
+
+<br/> 
 <hr>
 <!-- Programming languages and tools-->
 <h2 align="center"><b>Languages and Tools: </b></h2>
