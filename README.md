@@ -28,10 +28,10 @@
     <a href="https://dev.to/collins331" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Dev%20Community-black?style=for-the-badge&logo=dev.to&logoColor=WHITE" alt="collins331"/>
     </a>
-    <a href="https://twitter.com/Lincoln_331" target="_blank">
+    <a href="https://twitter.com/collyns_codes" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Lincoln_331"/>
     </a>
-    <a href="https://www.linkedin.com/in/collins-ochieng-9b2303251/" target="_blank">
+    <a href="https://www.linkedin.com/in/collyns-ochieng" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="collins-oduor-ochieng-9b2303251/" />
     </a>
     <a href="https://stackoverflow.com/users/22209588/collins" target="_blank">
