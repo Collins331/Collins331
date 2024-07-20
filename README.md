@@ -195,22 +195,14 @@
 ✨ Outside of work, I am an avid sports fan, especially when it comes to football.
 
 ✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
-
-<!--✨ Preferred PHP frameworks ✔Laravel, ✔Codeigniter, ✔Sympony, ✔Yii-->
        
-✨ Preferred Python frameworks   ✔Python, ✔Django, ✔Flask
-          
-✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, ✔React.js, ✔Vue.js
-         
-✨ Preferred style frameworks    ✔Tailwind CSS, ✔Bootstrap, ✔Material-UI
+✨ Preferred Python frameworks   ✔Python, ✔Django, ✔Flask ✔Fastapi
          
 ✨ Database options   ✔MongoDB, ✔MySQL,  ✔ sqlite3
          
-✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔WIx, ✔Squarespace, ✔bubble.io
+✨ Web hosting options    ✔ Azure service  ✔ Digital Ocean  ✔ Render  ✔Vercel ✔ Heroku ✔Netlify
          
-✨ Web hosting options    ✔ Azure service   ✔ AWS Services - EC2, S3, and Lambda    ✔ cPanel service, ✔GoDaddy ✔Vercel ✔ Heroku ✔Netlify
-         
-✨ Payment gateway integration  ✔Stripe, ✔PayPal ✔Mpesa
+✨ Payment gateway integration  ✔Mpesa
         
 
 
