@@ -172,15 +172,9 @@
   
 - 🔭 I’m a **Fullstack Developer**
 
-- 🌱 I’m currently learning **Dart && Flutter**
-
-- 💬 Ask me about **C programming, JavaScript, HTML, CSS, Python**
-
 - 🌏 Visit to my <a href="https://portfolio.lincsoftwares.tech">Portfolio</a>
 
 - 👨‍💻 All my projects are available at my *[GITHUB](https://github.com/Collins331?tab=repositories)*
-
-- ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
 ## My personal values and work ethic
 
