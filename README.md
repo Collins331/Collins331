@@ -25,7 +25,7 @@
 
 <!-- Introduction-->
 
-<h2 align="center">I am passionate Fullstack software developer from Kenya.</h2>
+<h2 align="center">I am software developer</h2>
 <hr>
 <!--Contact section-->
 
@@ -177,31 +177,19 @@
   
 - 🔭 I’m a **Fullstack Developer**
 
-- 🌏 Visit to my <a href="https://portfolio.lincsoftwares.tech">Portfolio</a>
+- 🌏 Visit to my <a href="https://portfolio.lincsoftware.tech">Portfolio</a>
 
 - 👨‍💻 All my projects are available at my *[GITHUB](https://github.com/Collins331?tab=repositories)*
 
 ## My personal values and work ethic
 
-✨ I want to build strong relationships with my clients.
-
 ✨ I believe that a good working relationship is built on mutual trust and respect.
 
 ✨ I value open communication and strive to keep you updated on progress every step of the way. <!-- markdownlint-disable-line -->
 
-✨ I am a team player and enjoy collaborating with others to achieve a common goal.
-
 ✨ Outside of work, I am an avid sports fan, especially when it comes to football.
 
 ✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset. <!-- markdownlint-disable-line -->
-
-✨ Preferred Python frameworks   ✔Python, ✔Django, ✔Flask ✔Fastapi
-
-✨ Database options   ✔MongoDB, ✔MySQL,  ✔ sqlite3
-
-✨ Web hosting options    ✔ Azure service  ✔ Digital Ocean  ✔ Render  ✔Vercel ✔ Heroku ✔Netlify <!-- markdownlint-disable-line -->
-
-✨ Payment gateway integration  ✔Mpesa
 
 <br/>
 <hr>
@@ -271,9 +259,4 @@
         <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Collins331&bg_color=000000&color=9e4c98&line=2fd22d&point=403d3d&area=true&hide_border=false"
         alt="Collins331/github-readme-activity-graph">
     </a>
-</p>
-<hr>
-<h3 align='center'>😂 Random Dev Meme</h3>
-<p align='center'>
-<img src='https://randommeme-five.vercel.app/' alt="Meme" style="height: 400px;"/>
 </p>
