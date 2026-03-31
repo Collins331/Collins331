@@ -57,10 +57,10 @@
 <!--Trophy profile -->
 <p align="center">
   <a href="https://wakatime.com/@collins_lincoln"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=collins_lincoln&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"
-  width="58%" alt="@Goblin's wakatime stats"/></a>
-  <a href="https://github.com/PrinceGoblinTech?tab=achievements">
+  width="58%" alt="@Collins's wakatime stats"/></a>
+  <a href="https://github.com/Collins331?tab=achievements">
     <img src="https://github-profile-trophy.vercel.app/?username=Collins331&theme=onestar&no-frame=true&column=3&row=2"
-    width="38%" alt="@Goblin's trophy stats"/></a>
+    width="38%" alt="@Collins's trophy stats"/></a>
 </p>
 
 <hr>
